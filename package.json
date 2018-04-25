@@ -1,0 +1,23 @@
+{
+  "name": "webclientlib",
+  "version": "1.0.0",
+  "description": "Web Client Library and Repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkeanfei/webclientlib.git"
+  },
+  "author": "Leong Kean Fei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkeanfei/webclientlib/issues"
+  },
+  "homepage": "https://github.com/lkeanfei/webclientlib#readme",
+  "devDependencies": {
+    "typescript": "^2.8.3"
+  }
+}
